@@ -1,6 +1,6 @@
 
 ### Hi there! 👋
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&desc=I'm%a%&descAlign=20&descAlignY=26&text=Front-End%20Developer&animation=twinkling&fontSize=60&fontAlignY=44)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&desc=I'm%20a&descAlign=20&descAlignY=26&text=Front-End%20Developer&animation=twinkling&fontSize=60&fontAlignY=44)
 
 # Skills
 ### Platforms & Languages
