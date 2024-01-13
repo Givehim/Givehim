@@ -4,7 +4,7 @@
 
 ## Skills
 ### Platforms & Languages
-<img src="https://img.shields.io/badge/JAVASCRIPT-323330?style=for-the-badge&logo=javascript&logoColor=yellow"/> <img src="https://img.shields.io/badge/TYPESCRIPT-2E3A59?style=for-the-badge&logo=typescript&logoColor=blue"/> <img src="https://img.shields.io/badge/REACT-21232A?style=for-the-badge&logo=react&logoColor=blue"/> <img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/STYLED--COMPONENTS-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white"/> <img src="https://img.shields.io/badge/MUI-101418?style=for-the-badge&logo=mui&logoColor=blue"/>
+<img src="https://img.shields.io/badge/JAVASCRIPT-323330?style=for-the-badge&logo=javascript&logoColor=yellow"/> <img src="https://img.shields.io/badge/TYPESCRIPT-2E3A59?style=for-the-badge&logo=typescript&logoColor=blue"/> <img src="https://img.shields.io/badge/REACT-21232A?style=for-the-badge&logo=react&logoColor=blue"/> <img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/STYLED--COMPONENTS-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white"/> <img src="https://img.shields.io/badge/MUI-101418?style=for-the-badge&logo=mui&logoColor=blue"/> <img src="https://img.shields.io/badge/TAILWINDCSS-0CA6E9?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 
 
 
