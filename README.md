@@ -1,5 +1,5 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=waving&color=143422&height=300&section=header&text=Front-End%20Developer&animation=fadeIn&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=_143422&height=300&section=header&text=Front-End%20Developer&animation=fadeIn&fontSize=40)
 <!--
 **Givehim/Givehim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
