@@ -4,6 +4,8 @@
 
 ## Skills
 <img src="https://img.shields.io/badge/JAVASCRIPT-323330?style=for-the-badge&logo=javascript&logoColor=yellow"/>
+<img src="https://img.shields.io/badge/TYPESCRIPT-2E3A59?style=for-the-badge&logo=typescript&logoColor=blue"/>
+
 
 <!--
 **Givehim/Givehim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
