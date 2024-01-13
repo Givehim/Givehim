@@ -1,7 +1,12 @@
+<div align="center">
 ### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Front-End%20Developer&animation=twinkling&fontSize=60)
 
 ## Skills
+<img src="https://img.shields.io/badge/JAVASCRIPT-404040?style=flat-square&logo=javascript&logoColor=white"/>
+
+</div>
+
 
 <!--
 **Givehim/Givehim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
