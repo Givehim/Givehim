@@ -1,5 +1,3 @@
-
-### Hi there! 👋
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&desc=I%20am%20a%20&descAlign=20&descAlignY=26&text=Front-End%20Developer&animation=twinkling&fontSize=60&fontAlignY=44)
 
 ## Skills
